@@ -1,0 +1,13 @@
+ JAWABAN SOAL NO 1 DAN 2
+ 
+ 1. Framework adalah struktur yang digunakan untuk membangun sebuah aplikasi web atau situs web. 
+ Framework membantu dalam mempermudah proses pengembangan website dengan menyediakan komponen-komponen yang siap 
+ digunakan dan memudahkan dalam membuat kode yang terstruktur.
+ 
+ 2.1. Pengembangan WEB Desa
+ 2.2. 	Dadan Omar Hamdan (Bagian Backend)
+		Karta Kardiman ((Bagian Frontend)
+		Bily Septian (Designer)
+		Reza Rezkiana (Bagian System Analys)
+ 2.3. Permasalahan yang ada saat ini warga kesulitan mendapat informasi, sehingga kami berinisiatif untuk membangun sebuah WEB DesaDigital.
+Berisi tentang informasi Administrasi Desa, data penduduk, bantuan BLT, Pelayanan Desa, dan lain-lain.
